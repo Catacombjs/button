@@ -1,0 +1,21 @@
+﻿ .btn {
+	background-image: linear-gradient(to right, red 0%, blue 100%);
+ 
+  width: 200px;
+  height: 80px;
+  border-radius:50px;
+  font: 2em 'arial';
+  padding: 10px;
+ 
+  }
+  
+  .btn span {
+    	height: 100%;
+	width: 100%;
+background:  #e7e8e9;
+border-radius: 50px;
+	justify-content: center;
+  display: flex;
+  align-items: center;
+
+  }
